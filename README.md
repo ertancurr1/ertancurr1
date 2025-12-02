@@ -28,34 +28,15 @@ Node.js • Express • MongoDB • REST APIs • Git • Azure DevOps • Jira
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Work
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📊 Member Management Dashboard</h3>
-      <p>Full-stack system for Cultural Association "Vizioni M" with QR attendance tracking, analytics, and member management.</p>
-      <p><strong>Stack:</strong> Next.js, Node.js, MongoDB, Chart.js</p>
-    </td>
-    <td width="50%">
-      <h3>🏥 MediScan AI</h3>
-      <p>AI-powered healthcare app analyzing blood tests. 2nd place at IBU Hackathon.</p>
-      <p><strong>Stack:</strong> React.js, Node.js, OpenAI API</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🍽️ MealNow</h3>
-      <p>Contributed to production food ordering platform across web, mobile & tablet during internship at Technoperia.</p>
-      <p><strong>Stack:</strong> React.js, Next.js, React Native, Redux</p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Portfolio</h3>
-      <p>Personal portfolio with glassmorphism design, Three.js background, and smooth animations.</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, SASS, Three.js</p>
-    </td>
-  </tr>
-</table>
+**Production Experience**
+
+- 🍽️ **MealNow** — Contributed to Australian food ordering platform (web, mobile, tablet) at Technoperia
+- 📊 **Member Management Dashboard** — Full-stack system with QR attendance & analytics for Cultural Association "Vizioni M"
+- 🏥 **MediScan AI** — AI-powered healthcare app • 2nd place at IBU Hackathon
+
+> 💼 _Detailed case studies and demos available on my [portfolio](https://ertancurri.com)_
 
 ---
 
