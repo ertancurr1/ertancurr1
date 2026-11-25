@@ -23,16 +23,6 @@ Skopje, North Macedonia · B.Sc. Computer Engineering (coursework complete, dipl
 
 ---
 
-### 🌟 Open Source
-
-**[Metabase](https://github.com/metabase/metabase)** - Business Intelligence platform (47k+ ⭐)
-
-- Fixed pie chart tooltip settings bug ([PR #72565](https://github.com/metabase/metabase/pull/72565) → [Issue #71974](https://github.com/metabase/metabase/issues/71974))
-- Threaded visualization settings through the tooltip component chain
-- TypeScript/React frontend + ClojureScript unit tests
-
----
-
 ### 🛠️ Tech Stack
 
 ```
